@@ -13,6 +13,7 @@ public static void main(String[] args)
 		abc.Age();
 		abc.a=23;
 		System.out.println(abc.a);
+		System.out.println("uodate reporsitory");
 	}
 
 }
