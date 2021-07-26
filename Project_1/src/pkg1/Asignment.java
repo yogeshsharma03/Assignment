@@ -20,7 +20,7 @@ public class Asignment
 		System.out.println("age is = "+as.age);
 		System.out.println("Roll No = "+as.rollNo);
 		as.Display1();
-		as.Display2();
+		as.Display2();		System.out.println("test");
 		// TODO Auto-generated method stub
 
 	}
